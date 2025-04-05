@@ -1,0 +1,148 @@
+@font-face{
+	font-family: ItalicC;
+	src: url('italicc.ttf');
+	
+}
+
+a{ text-decoration:none;
+}
+.new li, .new{
+   font-size: 2vh;
+}
+h1{
+   font-size: 6.9vh;			
+   font-family: ItalicC;	
+   color: black;			
+   text-align: center;
+}
+h2{
+   font-size: 3vh;			
+   font-family: ItalicC;	
+   color: black;			
+   text-align: center;
+}
+h3{
+   font-size: 2vh;			
+   font-family: Century Gothic;	
+   color: black;			
+   text-align: center;
+}
+h4{
+   font-size: 2vh;			
+   font-family: Century Gothic;	
+   color: black;			
+   text-align: left;
+}
+h5{
+   font-size: 2vh;			
+   font-family: ItalicC;	
+   color: black;			
+   text-align: left;
+}
+
+
+p{
+	
+	font-size: 2vh;
+}
+#name{
+	padding: 5px;
+	width: 73.7vw;
+	height: 9vw;
+	right: 0.1px;
+	top: 1vw;	
+	border: 0.1vw solid black;
+	position: absolute;
+	background-color: azure;
+	
+}
+#menu{
+
+	width: 25vw;
+	padding: 5px;
+		height: 65vh;
+	left: 0.1vw;
+	top: 11vw;	
+	border: 0.1vw solid black;
+	position: absolute;
+	background-color: azure;
+}
+#textplace{
+	width:74%;
+	font-size: 1.5vh;
+	height: 65vh;
+	left: 25.6%;
+	top: 11VW;	
+	border: 0.1vw solid black;
+	position: absolute; 
+	background-color: azure;
+	padding-left: 15px;
+	
+}
+#blok2{
+	width:50%;
+	font-size: 1.5vh;
+	height: 65vh;
+	left: 25.6%;
+	top: 11VW;	
+	border: 0.1vw solid black;
+	position: absolute; 
+	background-color: azure;
+	padding-left: 15px;
+	
+}
+#blok{
+	padding: 23px;
+	width: 23.2vw;
+	height: 65vh;
+	left: 76%;
+	top: 11vw;	
+	border: 0.1vw solid black;
+	position: absolute; 
+	background-color:azure;
+	
+}
+
+
+.ava{
+	text-align: center;
+	width: 20vw;
+	height: 10vw;
+	border: 0.1vw solid red;
+}
+.logo{
+	width: 10vw;
+	height: 22vh;
+	left: 5%;
+	top: 0vw;	
+	border: 0vw solid black;
+	position: absolute
+	
+}
+
+.logotep{
+	width: 20vw;
+	
+	float: center;
+}
+.buttonz{
+
+}
+button{
+	width: 24vw;
+	display: block;
+	border: 0.1vw solid blue;
+	margin-top: 0.2vw;
+	background-color: turquoise;
+	color: white;
+	height: 6vh;
+}
+button a{
+	color: white;
+}
+button:hover{
+	background-color:azure ;
+}
+button:hover a{
+	color: black;
+}
